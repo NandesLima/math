@@ -99,9 +99,9 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 `Mathematical mindset`
 `Number Theory`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Prerequisites | Início | Fim
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none | Início -> 08/02/2026
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none | 08/02/2026 | in progress
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
