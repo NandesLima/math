@@ -100,7 +100,7 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 `Number Theory`
 
 Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--:
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none | Início -> 08/02/2026
 
 ### Calculus 
